@@ -2,7 +2,7 @@
 
 This document explains what FreedomBrowser protects, how, and where the limits are. If you find a
 weakness, please report it privately through
-[GitHub security advisories](https://github.com/shahidzafarsg/freedombrowser/security/advisories/new).
+[GitHub security advisories](https://github.com/shahidzafarsg/freedombrowser-releases/security/advisories/new).
 
 ## What is protected
 
